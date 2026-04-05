@@ -66,6 +66,7 @@ Step 2: Run
 
 👨‍💻 Author
 
-Ajith
+AJITHKUMAR
+
 
 ---
